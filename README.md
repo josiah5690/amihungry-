@@ -8,4 +8,4 @@ Just wanna know how Github work!
 * and this is another list item
 * ok this is the final item 
 
-!()(grand-canyon-sunset-1200x627.jpg)
+![](grand-canyon-sunset-1200x627.jpg)
